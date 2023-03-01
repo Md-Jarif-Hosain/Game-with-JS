@@ -2,11 +2,11 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  font-family: operator-Mono;
+  font-family: Operator-Mono;
 }
 
 @font-face {
-  font-family: operator-Mono;
+  font-family: Operator-Mono;
   src: url(../Fonts/OperatorMonoLig-Light.otf);
 }
 
